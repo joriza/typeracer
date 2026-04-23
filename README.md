@@ -26,3 +26,5 @@ https://echaloasuerte.com/tournament/
 16	TEODOROFF, Fernando	9  
 17	VAZQUEZ, Nicolas	10  
 18	ZAPATA, Tiziano	6  
+
+2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
